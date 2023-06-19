@@ -7,5 +7,6 @@
 
 
 ## Please contact us for cooperation: ichuan2062@gmail.com
+## TG https://t.me/iMoFei
 
  bet365 bot specializes in risk control and anti crawling, and there is no data that cannot be crawled! 
