@@ -1,7 +1,7 @@
 # bet365_bot
 
 # www.bet365.com www.365-288.com
-## soccer in play： http://39.108.162.42/api/bet365/?sportId=1&isRB=1&ID=1777
+## soccer in play(Delayed processing of data)： http://39.108.162.42/api/bet365/?sportId=1&isRB=1&ID=1777
 
 ## Real time updates of the project, providing real-time data
 
